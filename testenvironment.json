@@ -1,0 +1,14 @@
+{
+	"id": "b58f8d8a-23b1-48d1-9243-72e054c0fb26",
+	"name": "testenvironment",
+	"values": [
+		{
+			"key": "adminAccessToken",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-04-18T21:29:40.460Z",
+	"_postman_exported_using": "Postman/8.1.0"
+}
