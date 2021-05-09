@@ -617,6 +617,7 @@
 									"});\r",
 									"\r",
 									"let spacesadmin = JSON.parse(responseBody);\r",
+									"let image_id = spacesadmin.data.content[0].imageId\r",
 									"\r",
 									"pm.test(\"Banner images retrieved successfully\", function () {\r",
 									"    pm.expect(spacesadmin.message).to.eql(\"Successful\");\r",
