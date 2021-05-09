@@ -1,19 +1,59 @@
 {
-	"id": "b58f8d8a-23b1-48d1-9243-72e054c0fb26",
-	"name": "testenvironment",
+	"id": "ab05d492-b69e-45b2-8120-0af5ab7e4940",
+	"name": "releaseEnvironment",
 	"values": [
 		{
-			"key": "adminAccessToken",
-			"value": "",
+			"key": "fingerPrintId",
+			"value": "eed1722a-20af-4e04-a5d6-09c347c9037e",
 			"enabled": true
 		},
 		{
 			"key": "url",
 			"value": "https://api-dev.spaceso2o.com",
 			"enabled": true
+		},
+		{
+			"key": "phoneNumber",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "businessCategory",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "adminAccessToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "bannerName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "bannerName2",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "banner_Name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "imageId",
+			"value": "",
+			"enabled": true
 		}
 	],
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2021-04-18T22:20:58.840Z",
-	"_postman_exported_using": "Postman/8.1.0"
+	"_postman_exported_at": "2021-05-09T22:57:58.415Z",
+	"_postman_exported_using": "Postman/8.3.0"
 }
